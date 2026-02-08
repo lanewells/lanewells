@@ -1,4 +1,4 @@
-## Hi, I’m Delaney (Lane) 👾
+## Hi! 👾 I’m Delaney (Lane) 
 
 Full-stack software engineer with a frontend focus.  
 I work mainly with **TypeScript, React, Node, Python, and SQL**.  
